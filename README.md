@@ -8,7 +8,6 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | C#
-- 🌐 &nbsp; PHP
 
 <br/>
 
